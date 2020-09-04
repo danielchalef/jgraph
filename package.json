@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/patrickfuller/jgraph",
   "dependencies": {
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.1",
     "three": "^0.71.0"
   }
 }
